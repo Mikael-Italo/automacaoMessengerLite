@@ -1,5 +1,5 @@
 # Automação Messenger Lite
- ✔️ **Automação do envio de mensagens no App messenger Lite, a partir de um usuário no sistema.** 
+ ✔️ **Automação do envio de mensagens no App messenger Lite, a partir de um usuário cadastrado no sistema.** 
  ***
 
  ➡️ Não esquecer de inserir no código:
